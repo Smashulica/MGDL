@@ -1,0 +1,7 @@
+moviepy
+filetype
+pyrogram
+tgcrypto
+ffmpeg-python
+hurry.filesize
+git+https://github.com/Smashulica/mega.py.git
